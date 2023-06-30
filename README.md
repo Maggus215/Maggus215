@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maggus215 (Marcus)
+- 👀 I’m interested in programming and other stuff.
+- 🌱 I’m currently learning java.
